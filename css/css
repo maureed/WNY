@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url(font/fontawesome-webfont.eot);
+  src: local('Lato Regular'), local('Lato-Regular'), url(font/fontawesome-webfont.eot) format('embedded-opentype'), url(font/fontawesome-webfont.woff) format('woff');www.html55555.com
+}
